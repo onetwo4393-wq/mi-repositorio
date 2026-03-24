@@ -1,0 +1,7 @@
+# Carpetas de compilación
+build/
+sdkconfig
+sdkconfig.old
+
+# El SDK si lo tenés dentro del proyecto
+esp-idf/
